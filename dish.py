@@ -5,10 +5,10 @@ italian = ["pizza","pasta","risotto","Panzenella","Margherita Pizza"]
 dish = input("Enter the dish name :")
 
 if dish in indian:
-    print("Dish is indian")
+    print("Dish is indian..")
 elif dish in chinese:
-    print("Dish is chinese")
+    print("Dish is chinese..")
 elif dish in italian:
-    print("Dish is italian")
+    print("Dish is italian..")
 else:
-    print("not available")
+    print("not available..")
